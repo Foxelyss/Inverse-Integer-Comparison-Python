@@ -9,4 +9,4 @@
 
 ### Полученные результаты
 
-![BenchmarkStats](https://foxelyss.github.io/assets/misc/benchmark1.png)
+<img width="640" height="480" alt="BenchmarkStats" src="https://github.com/user-attachments/assets/0933b015-81e3-4a2d-ac1e-26baf2b8fffa" />
